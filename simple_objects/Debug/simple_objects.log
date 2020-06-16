@@ -1,0 +1,11 @@
+﻿  simple_objects.cpp
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\asteroids_arr.h(40,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(93,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(190,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(191,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(195,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(196,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(198,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(199,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yanpa\source\repos\simple_objects\simple_objects\simple_objects.cpp(207,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  simple_objects.vcxproj -> C:\Users\yanpa\source\repos\simple_objects\Debug\simple_objects.exe
